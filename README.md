@@ -6,3 +6,4 @@
 | 曲名 | Title | Key / BPM | ダウンロード |
 |---|---|---|---|
 | 放課後リバーブ | Afterschool Reverb | E / 136 | [afterschool-reverb](https://github.com/minnnanoband/free-band-songs/releases/tag/afterschool-reverb) |
+| 帰り道で、またね | See You on the Way Home | C / 144 | [way-home-promise](https://github.com/minnnanoband/free-band-songs/releases/tag/way-home-promise) |
