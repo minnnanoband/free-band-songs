@@ -11,3 +11,4 @@
 | 午前0時のソーダ水 | Midnight Soda | G / 108 | [midnight-soda](https://github.com/minnnanoband/free-band-songs/releases/tag/midnight-soda) |
 | スニーカー・リベンジ | Sneaker Revenge | F / 160 | [sneaker-revenge](https://github.com/minnnanoband/free-band-songs/releases/tag/sneaker-revenge) |
 | 滑走路の向こうへ | Beyond the Runway | Ab / 117 | [beyond-the-runway](https://github.com/minnnanoband/free-band-songs/releases/tag/beyond-the-runway) |
+| 信号が青に変わったら | When the Light Turns Green | Cm / 82 | [green-light-umbrella](https://github.com/minnnanoband/free-band-songs/releases/tag/green-light-umbrella) |
