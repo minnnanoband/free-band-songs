@@ -10,3 +10,4 @@
 | 線香花火が落ちるまで | Until the Sparkler Falls | Em / 90 | [until-the-sparkler-falls](https://github.com/minnnanoband/free-band-songs/releases/tag/until-the-sparkler-falls) |
 | 午前0時のソーダ水 | Midnight Soda | G / 108 | [midnight-soda](https://github.com/minnnanoband/free-band-songs/releases/tag/midnight-soda) |
 | スニーカー・リベンジ | Sneaker Revenge | F / 160 | [sneaker-revenge](https://github.com/minnnanoband/free-band-songs/releases/tag/sneaker-revenge) |
+| 滑走路の向こうへ | Beyond the Runway | Ab / 117 | [beyond-the-runway](https://github.com/minnnanoband/free-band-songs/releases/tag/beyond-the-runway) |
