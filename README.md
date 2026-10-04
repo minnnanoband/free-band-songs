@@ -8,3 +8,4 @@
 | 放課後リバーブ | Afterschool Reverb | E / 136 | [afterschool-reverb](https://github.com/minnnanoband/free-band-songs/releases/tag/afterschool-reverb) |
 | 帰り道で、またね | See You on the Way Home | C / 144 | [way-home-promise](https://github.com/minnnanoband/free-band-songs/releases/tag/way-home-promise) |
 | 始発ファンファーレ | First Train Fanfare | A / 176 | [first-train-fanfare](https://github.com/minnnanoband/free-band-songs/releases/tag/first-train-fanfare) |
+| ただいまの灯り | The Light That Waits for Me | Bb / 74 | [homecoming-light](https://github.com/minnnanoband/free-band-songs/releases/tag/homecoming-light) |
