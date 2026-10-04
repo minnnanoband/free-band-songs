@@ -13,3 +13,4 @@
 | 滑走路の向こうへ | Beyond the Runway | Ab / 117 | [beyond-the-runway](https://github.com/minnnanoband/free-band-songs/releases/tag/beyond-the-runway) |
 | 信号が青に変わったら | When the Light Turns Green | Cm / 82 | [green-light-umbrella](https://github.com/minnnanoband/free-band-songs/releases/tag/green-light-umbrella) |
 | Letters to the Lighthouse | Letters to the Lighthouse | Db / 99 | [letters-to-the-lighthouse](https://github.com/minnnanoband/free-band-songs/releases/tag/letters-to-the-lighthouse) |
+| Clockwork Daydream | Clockwork Daydream | Bm / 131 | [clockwork-daydream](https://github.com/minnnanoband/free-band-songs/releases/tag/clockwork-daydream) |
