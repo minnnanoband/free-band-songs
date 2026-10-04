@@ -16,3 +16,4 @@
 | Clockwork Daydream | Clockwork Daydream | Bm / 131 | [clockwork-daydream](https://github.com/minnnanoband/free-band-songs/releases/tag/clockwork-daydream) |
 | 汽笛を鳴らせ | Sound the Horn | Dm / 188 | [sound-the-horn](https://github.com/minnnanoband/free-band-songs/releases/tag/sound-the-horn) |
 | ひまわり自転車 | Sunflower Bicycle | B / 152 | [sunflower-bicycle](https://github.com/minnnanoband/free-band-songs/releases/tag/sunflower-bicycle) |
+| Kitchen Radio | Kitchen Radio | Eb / 66 | [kitchen-radio](https://github.com/minnnanoband/free-band-songs/releases/tag/kitchen-radio) |
