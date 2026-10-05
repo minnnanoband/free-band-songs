@@ -7,7 +7,6 @@
 
 | 曲名 | Title | Key / BPM | ダウンロード |
 |---|---|---|---|
-| 汽笛を鳴らせ | Sound the Horn | Dm / 188 | [sound-the-horn](https://github.com/minnnanoband/free-band-songs/releases/tag/sound-the-horn) |
 | ひまわり自転車 | Sunflower Bicycle | B / 152 | [sunflower-bicycle](https://github.com/minnnanoband/free-band-songs/releases/tag/sunflower-bicycle) |
 | Kitchen Radio | Kitchen Radio | Eb / 66 | [kitchen-radio](https://github.com/minnnanoband/free-band-songs/releases/tag/kitchen-radio) |
 | 始発ファンファーレ | First Train Fanfare | A / 176 | [first-train-fanfare](https://github.com/minnnanoband/free-band-songs/releases/tag/first-train-fanfare) |
@@ -19,3 +18,4 @@
 | 信号が青に変わったら | When the Light Turns Green | Cm / 82 | [green-light-umbrella](https://github.com/minnnanoband/free-band-songs/releases/tag/green-light-umbrella) |
 | Letters to the Lighthouse | Letters to the Lighthouse | Db / 99 | [letters-to-the-lighthouse](https://github.com/minnnanoband/free-band-songs/releases/tag/letters-to-the-lighthouse) |
 | Clockwork Daydream | Clockwork Daydream | Bm / 131 | [clockwork-daydream](https://github.com/minnnanoband/free-band-songs/releases/tag/clockwork-daydream) |
+| 汽笛を鳴らせ | Sound the Horn | Dm / 188 | [sound-the-horn](https://github.com/minnnanoband/free-band-songs/releases/tag/sound-the-horn) |
