@@ -7,7 +7,6 @@
 
 | 曲名 | Title | Key / BPM | ダウンロード |
 |---|---|---|---|
-| 午前0時のソーダ水 | Midnight Soda | G / 108 | [midnight-soda](https://github.com/minnnanoband/free-band-songs/releases/tag/midnight-soda) |
 | スニーカー・リベンジ | Sneaker Revenge | F / 160 | [sneaker-revenge](https://github.com/minnnanoband/free-band-songs/releases/tag/sneaker-revenge) |
 | 滑走路の向こうへ | Beyond the Runway | Ab / 117 | [beyond-the-runway](https://github.com/minnnanoband/free-band-songs/releases/tag/beyond-the-runway) |
 | 信号が青に変わったら | When the Light Turns Green | Cm / 82 | [green-light-umbrella](https://github.com/minnnanoband/free-band-songs/releases/tag/green-light-umbrella) |
@@ -19,3 +18,4 @@
 | 始発ファンファーレ | First Train Fanfare | A / 176 | [first-train-fanfare](https://github.com/minnnanoband/free-band-songs/releases/tag/first-train-fanfare) |
 | ただいまの灯り | The Light That Waits for Me | Bb / 74 | [homecoming-light](https://github.com/minnnanoband/free-band-songs/releases/tag/homecoming-light) |
 | 線香花火が落ちるまで | Until the Sparkler Falls | Em / 90 | [until-the-sparkler-falls](https://github.com/minnnanoband/free-band-songs/releases/tag/until-the-sparkler-falls) |
+| 午前0時のソーダ水 | Midnight Soda | G / 108 | [midnight-soda](https://github.com/minnnanoband/free-band-songs/releases/tag/midnight-soda) |
