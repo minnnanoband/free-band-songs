@@ -21,3 +21,4 @@
 | Kitchen Radio | Kitchen Radio | Eb / 66 | [kitchen-radio](https://github.com/minnnanoband/free-band-songs/releases/tag/kitchen-radio) |
 | Laundromat Moon | Laundromat Moon | Am / 94 | [laundromat-moon](https://github.com/minnnanoband/free-band-songs/releases/tag/laundromat-moon) |
 | スキップで会いにいく | Skipping to You | F# / 122 | [skipping-to-you](https://github.com/minnnanoband/free-band-songs/releases/tag/skipping-to-you) |
+| Tangerine Postcard | Tangerine Postcard | F#m / 104 | [tangerine-postcard](https://github.com/minnnanoband/free-band-songs/releases/tag/tangerine-postcard) |
