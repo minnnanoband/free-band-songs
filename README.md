@@ -28,3 +28,4 @@
 | くせっ毛ダンサー | Curly Hair Dancer | Bbm / 112 | [curly-hair-dancer](https://github.com/minnnanoband/free-band-songs/releases/tag/curly-hair-dancer) |
 | Highway Mermaid | Highway Mermaid | G#m / 148 | [highway-mermaid](https://github.com/minnnanoband/free-band-songs/releases/tag/highway-mermaid) |
 | Rush Hour Groove | Rush Hour Groove | D#m / 124 | [rush-hour-groove](https://github.com/minnnanoband/free-band-songs/releases/tag/rush-hour-groove) |
+| 軽トラ・ランナウェイ | Kei Truck Runaway | D / 182 | [kei-truck-runaway](https://github.com/minnnanoband/free-band-songs/releases/tag/kei-truck-runaway) |
