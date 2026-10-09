@@ -24,3 +24,4 @@
 | Tangerine Postcard | Tangerine Postcard | F#m / 104 | [tangerine-postcard](https://github.com/minnnanoband/free-band-songs/releases/tag/tangerine-postcard) |
 | Last Buzzer | Last Buzzer | Gm / 168 | [last-buzzer](https://github.com/minnnanoband/free-band-songs/releases/tag/last-buzzer) |
 | 縁側のひだまり | Sunlit Porch | Fm / 78 | [engawa-hidamari](https://github.com/minnnanoband/free-band-songs/releases/tag/engawa-hidamari) |
+| Jellyfish Dream | Jellyfish Dream | C#m / 86 | [jellyfish-dream](https://github.com/minnnanoband/free-band-songs/releases/tag/jellyfish-dream) |
