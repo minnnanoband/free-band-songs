@@ -30,3 +30,4 @@
 | Rush Hour Groove | Rush Hour Groove | D#m / 124 | [rush-hour-groove](https://github.com/minnnanoband/free-band-songs/releases/tag/rush-hour-groove) |
 | 軽トラ・ランナウェイ | Kei Truck Runaway | D / 182 | [kei-truck-runaway](https://github.com/minnnanoband/free-band-songs/releases/tag/kei-truck-runaway) |
 | ブーケトス | Bouquet Toss | E / 70 | [bouquet-toss](https://github.com/minnnanoband/free-band-songs/releases/tag/bouquet-toss) |
+| Countdown Disco | Countdown Disco | Bb / 140 | [countdown-disco](https://github.com/minnnanoband/free-band-songs/releases/tag/countdown-disco) |
