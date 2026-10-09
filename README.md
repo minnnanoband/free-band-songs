@@ -23,3 +23,4 @@
 | スキップで会いにいく | Skipping to You | F# / 122 | [skipping-to-you](https://github.com/minnnanoband/free-band-songs/releases/tag/skipping-to-you) |
 | Tangerine Postcard | Tangerine Postcard | F#m / 104 | [tangerine-postcard](https://github.com/minnnanoband/free-band-songs/releases/tag/tangerine-postcard) |
 | Last Buzzer | Last Buzzer | Gm / 168 | [last-buzzer](https://github.com/minnnanoband/free-band-songs/releases/tag/last-buzzer) |
+| 縁側のひだまり | Sunlit Porch | Fm / 78 | [engawa-hidamari](https://github.com/minnnanoband/free-band-songs/releases/tag/engawa-hidamari) |
