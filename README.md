@@ -34,3 +34,4 @@
 | 雨宿りのカフェオレ | Café au Lait in the Rain | Eb / 106 | [cafe-au-lait-rain](https://github.com/minnnanoband/free-band-songs/releases/tag/cafe-au-lait-rain) |
 | 古着屋ブルース | Thrift Shop Blues | A / 96 | [thrift-shop-blues](https://github.com/minnnanoband/free-band-songs/releases/tag/thrift-shop-blues) |
 | Summer Ferry | Summer Ferry | F / 128 | [summer-ferry](https://github.com/minnnanoband/free-band-songs/releases/tag/summer-ferry) |
+| 怪盗ラプソディ | Phantom Thief Rhapsody | Cm / 172 | [phantom-thief-rhapsody](https://github.com/minnnanoband/free-band-songs/releases/tag/phantom-thief-rhapsody) |
