@@ -1,4 +1,4 @@
-﻿![フリー楽曲　みんなのバンド曲](images/readme-banner.png)
+![フリー楽曲　みんなのバンド曲](images/readme-banner.png)
 
 # フリー楽曲　みんなのバンド曲（Free J-POP for Bands）
 
@@ -32,3 +32,4 @@
 | Music Box Lullaby | Music Box Lullaby | Ab / 92 | [music-box-lullaby](https://github.com/minnnanoband/free-band-songs/releases/tag/music-box-lullaby) |
 | 狐の嫁入り | The Fox's Wedding | Em / 134 | [fox-wedding](https://github.com/minnnanoband/free-band-songs/releases/tag/fox-wedding) |
 | さよならタンゴ | Farewell Tango | Bm / 114 | [farewell-tango](https://github.com/minnnanoband/free-band-songs/releases/tag/farewell-tango) |
+| Kaleidoscope Heart | Kaleidoscope Heart | C#m / 150 | [kaleidoscope-heart](https://github.com/minnnanoband/free-band-songs/releases/tag/kaleidoscope-heart) |
