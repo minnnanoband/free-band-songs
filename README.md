@@ -39,3 +39,4 @@
 | Ponytail Jive | Ponytail Jive | Am / 155 | [ponytail-jive](https://github.com/minnnanoband/free-band-songs/releases/tag/ponytail-jive) |
 | Hammock Siesta | Hammock Siesta | Dm / 101 | [hammock-siesta](https://github.com/minnnanoband/free-band-songs/releases/tag/hammock-siesta) |
 | あしたパレード | Parade for Tomorrow | C / 164 | [parade-for-tomorrow](https://github.com/minnnanoband/free-band-songs/releases/tag/parade-for-tomorrow) |
+| Music Box Lullaby | Music Box Lullaby | Ab / 92 | [music-box-lullaby](https://github.com/minnnanoband/free-band-songs/releases/tag/music-box-lullaby) |
