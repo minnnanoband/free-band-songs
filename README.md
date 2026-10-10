@@ -36,3 +36,4 @@
 | Summer Ferry | Summer Ferry | F / 128 | [summer-ferry](https://github.com/minnnanoband/free-band-songs/releases/tag/summer-ferry) |
 | 怪盗ラプソディ | Phantom Thief Rhapsody | Cm / 172 | [phantom-thief-rhapsody](https://github.com/minnnanoband/free-band-songs/releases/tag/phantom-thief-rhapsody) |
 | 手編みのマフラー | Hand-knit Scarf | G / 72 | [hand-knit-scarf](https://github.com/minnnanoband/free-band-songs/releases/tag/hand-knit-scarf) |
+| Ponytail Jive | Ponytail Jive | Am / 155 | [ponytail-jive](https://github.com/minnnanoband/free-band-songs/releases/tag/ponytail-jive) |
