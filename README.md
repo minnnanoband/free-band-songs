@@ -41,3 +41,4 @@
 | あしたパレード | Parade for Tomorrow | C / 164 | [parade-for-tomorrow](https://github.com/minnnanoband/free-band-songs/releases/tag/parade-for-tomorrow) |
 | Music Box Lullaby | Music Box Lullaby | Ab / 92 | [music-box-lullaby](https://github.com/minnnanoband/free-band-songs/releases/tag/music-box-lullaby) |
 | 狐の嫁入り | The Fox's Wedding | Em / 134 | [fox-wedding](https://github.com/minnnanoband/free-band-songs/releases/tag/fox-wedding) |
+| さよならタンゴ | Farewell Tango | Bm / 114 | [farewell-tango](https://github.com/minnnanoband/free-band-songs/releases/tag/farewell-tango) |
