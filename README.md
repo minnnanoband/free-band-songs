@@ -37,3 +37,4 @@
 | Tailwind | Tailwind | F# / 120 | [tailwind](https://github.com/minnnanoband/free-band-songs/releases/tag/tailwind) |
 | ひび割れたスクリーン | Cracked Screen | Fm / 88 | [cracked-screen](https://github.com/minnnanoband/free-band-songs/releases/tag/cracked-screen) |
 | Sunset Showdown | Sunset Showdown | Gm / 179 | [sunset-showdown](https://github.com/minnnanoband/free-band-songs/releases/tag/sunset-showdown) |
+| 風の郵便配達 | The Wind Postman | F#m / 110 | [wind-postman](https://github.com/minnnanoband/free-band-songs/releases/tag/wind-postman) |
