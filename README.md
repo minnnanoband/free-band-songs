@@ -1,4 +1,4 @@
-![フリー楽曲　みんなのバンド曲](images/readme-banner.png)
+﻿![フリー楽曲　みんなのバンド曲](images/readme-banner.png)
 
 # フリー楽曲　みんなのバンド曲（Free J-POP for Bands）
 
@@ -22,16 +22,6 @@
 | Laundromat Moon | Laundromat Moon | Am / 94 | [laundromat-moon](https://github.com/minnnanoband/free-band-songs/releases/tag/laundromat-moon) |
 | スキップで会いにいく | Skipping to You | F# / 122 | [skipping-to-you](https://github.com/minnnanoband/free-band-songs/releases/tag/skipping-to-you) |
 | Tangerine Postcard | Tangerine Postcard | F#m / 104 | [tangerine-postcard](https://github.com/minnnanoband/free-band-songs/releases/tag/tangerine-postcard) |
-| Last Buzzer | Last Buzzer | Gm / 168 | [last-buzzer](https://github.com/minnnanoband/free-band-songs/releases/tag/last-buzzer) |
-| 縁側のひだまり | Sunlit Porch | Fm / 78 | [engawa-hidamari](https://github.com/minnnanoband/free-band-songs/releases/tag/engawa-hidamari) |
-| Jellyfish Dream | Jellyfish Dream | C#m / 86 | [jellyfish-dream](https://github.com/minnnanoband/free-band-songs/releases/tag/jellyfish-dream) |
-| くせっ毛ダンサー | Curly Hair Dancer | Bbm / 112 | [curly-hair-dancer](https://github.com/minnnanoband/free-band-songs/releases/tag/curly-hair-dancer) |
-| Highway Mermaid | Highway Mermaid | G#m / 148 | [highway-mermaid](https://github.com/minnnanoband/free-band-songs/releases/tag/highway-mermaid) |
-| Rush Hour Groove | Rush Hour Groove | D#m / 124 | [rush-hour-groove](https://github.com/minnnanoband/free-band-songs/releases/tag/rush-hour-groove) |
-| 軽トラ・ランナウェイ | Kei Truck Runaway | D / 182 | [kei-truck-runaway](https://github.com/minnnanoband/free-band-songs/releases/tag/kei-truck-runaway) |
-| ブーケトス | Bouquet Toss | E / 70 | [bouquet-toss](https://github.com/minnnanoband/free-band-songs/releases/tag/bouquet-toss) |
-| Countdown Disco | Countdown Disco | Bb / 140 | [countdown-disco](https://github.com/minnnanoband/free-band-songs/releases/tag/countdown-disco) |
-| 雨宿りのカフェオレ | Café au Lait in the Rain | Eb / 106 | [cafe-au-lait-rain](https://github.com/minnnanoband/free-band-songs/releases/tag/cafe-au-lait-rain) |
 | 古着屋ブルース | Thrift Shop Blues | A / 96 | [thrift-shop-blues](https://github.com/minnnanoband/free-band-songs/releases/tag/thrift-shop-blues) |
 | Summer Ferry | Summer Ferry | F / 128 | [summer-ferry](https://github.com/minnnanoband/free-band-songs/releases/tag/summer-ferry) |
 | 怪盗ラプソディ | Phantom Thief Rhapsody | Cm / 172 | [phantom-thief-rhapsody](https://github.com/minnnanoband/free-band-songs/releases/tag/phantom-thief-rhapsody) |
