@@ -41,3 +41,4 @@
 | Pizzicato Sunday | Pizzicato Sunday | G#m / 142 | [pizzicato-sunday](https://github.com/minnnanoband/free-band-songs/releases/tag/pizzicato-sunday) |
 | 閉じ込めた聖夜 | Holy Night in a Snow Globe | Db / 76 | [snow-globe-town](https://github.com/minnnanoband/free-band-songs/releases/tag/snow-globe-town) |
 | Chalk Dust Galaxy | Chalk Dust Galaxy | D#m / 98 | [chalk-dust-galaxy](https://github.com/minnnanoband/free-band-songs/releases/tag/chalk-dust-galaxy) |
+| Sunshine High Five | Sunshine High Five | B / 133 | [sunshine-high-five](https://github.com/minnnanoband/free-band-songs/releases/tag/sunshine-high-five) |
