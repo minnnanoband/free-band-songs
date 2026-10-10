@@ -32,3 +32,4 @@
 | ブーケトス | Bouquet Toss | E / 70 | [bouquet-toss](https://github.com/minnnanoband/free-band-songs/releases/tag/bouquet-toss) |
 | Countdown Disco | Countdown Disco | Bb / 140 | [countdown-disco](https://github.com/minnnanoband/free-band-songs/releases/tag/countdown-disco) |
 | 雨宿りのカフェオレ | Café au Lait in the Rain | Eb / 106 | [cafe-au-lait-rain](https://github.com/minnnanoband/free-band-songs/releases/tag/cafe-au-lait-rain) |
+| 古着屋ブルース | Thrift Shop Blues | A / 96 | [thrift-shop-blues](https://github.com/minnnanoband/free-band-songs/releases/tag/thrift-shop-blues) |
