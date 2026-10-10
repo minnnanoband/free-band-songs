@@ -34,3 +34,4 @@
 | さよならタンゴ | Farewell Tango | Bm / 114 | [farewell-tango](https://github.com/minnnanoband/free-band-songs/releases/tag/farewell-tango) |
 | Kaleidoscope Heart | Kaleidoscope Heart | C#m / 150 | [kaleidoscope-heart](https://github.com/minnnanoband/free-band-songs/releases/tag/kaleidoscope-heart) |
 | 流星通信 | Meteor Transmission | Bbm / 80 | [meteor-transmission](https://github.com/minnnanoband/free-band-songs/releases/tag/meteor-transmission) |
+| Tailwind | Tailwind | F# / 120 | [tailwind](https://github.com/minnnanoband/free-band-songs/releases/tag/tailwind) |
