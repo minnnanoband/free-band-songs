@@ -39,3 +39,4 @@
 | Sunset Showdown | Sunset Showdown | Gm / 179 | [sunset-showdown](https://github.com/minnnanoband/free-band-songs/releases/tag/sunset-showdown) |
 | 風の郵便配達 | The Wind Postman | F#m / 110 | [wind-postman](https://github.com/minnnanoband/free-band-songs/releases/tag/wind-postman) |
 | Pizzicato Sunday | Pizzicato Sunday | G#m / 142 | [pizzicato-sunday](https://github.com/minnnanoband/free-band-songs/releases/tag/pizzicato-sunday) |
+| 閉じ込めた聖夜 | Holy Night in a Snow Globe | Db / 76 | [snow-globe-town](https://github.com/minnnanoband/free-band-songs/releases/tag/snow-globe-town) |
